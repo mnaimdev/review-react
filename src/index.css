@@ -265,6 +265,7 @@ main {
   background: var(--clr-primary-5);
   color: var(--clr-white);
 }
+
 .img-container::before {
   content: "";
   width: 100%;
@@ -275,6 +276,7 @@ main {
   right: -0.5rem;
   border-radius: 50%;
 }
+
 .author {
   margin-bottom: 0.25rem;
 }

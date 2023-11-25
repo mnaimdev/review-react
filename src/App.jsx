@@ -1,5 +1,5 @@
 import './App.css';
-import Review from './components/Review';
+import ReviewSample from './components/ReviewSample';
 
 function App() {
 
@@ -7,7 +7,8 @@ function App() {
     <>
       <h2>Reviews</h2>
       <div className="underline"></div>
-      <Review />
+      {/* <Review /> */}
+      <ReviewSample />
     </>
   )
 }
